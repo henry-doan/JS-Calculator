@@ -1,0 +1,15 @@
+.cen {
+	margin: 0 auto;
+	text-align: center;
+}
+
+button {
+	width: 200px;
+	height: 80px;
+}
+
+.enter {
+	width: 1210px;
+	height: 90px;
+	margin-left: 35px;
+}
